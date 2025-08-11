@@ -9,7 +9,17 @@ this repository is meant for practice, reference, and learning the basics of the
   
 c-labs/  
 │  
-├── exercises/  
+├── exercise 1/
+|   ├── 1. name-and-age.c
+|   ├── 2. arithematics.c
+|   ├── 3. square_and_cube.c
+|   ├── 4. celcius_to_farenheit.c
+|
+├── exercise 2/
+|   ├── 1. swap-values-with-temp-blocks.c
+|   ├── 2. arithematics.c
+|
+├── exercise 3/
 │   ├── 1.average-of-two-numbers.c  
 │   ├── 2.area-of-rectangle.c  
 │   ├── 3.area-of-circle.c  
@@ -17,7 +27,9 @@ c-labs/
 │   ├── 5.voting-eligibility.c  
 │   ├── 6.difference-check.c  
 │   ├── 7.leap-year-check.c  
-│  
+|
+├── LICENSE
+|
 └── README.md  
     
 * exercises/ → contains all c programs  
