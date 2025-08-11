@@ -25,18 +25,6 @@ c-labs/
 
 ---
 
-## exercises in this repo
-
-1. **average of two numbers** – calculate average of two user-given numbers
-2. **area of rectangle** – compute area from given length and breadth
-3. **area of circle** – calculate using a fixed pi value (3.14)
-4. **swap without temp variable** – swap two integers without using an extra variable
-5. **voting eligibility** – determine if a person can vote based on age
-6. **difference check** – check if the difference between two numbers matches either value
-7. **leap year check** – determine if a given year is a leap year
-
----
-
 ## how to run
 
 prerequisites:
