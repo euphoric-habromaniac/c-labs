@@ -7,19 +7,19 @@ this repository is meant for practice, reference, and learning the basics of the
 
 ## repository structure
 
-c-labs/
-│
-├── exercises/
-│   ├── 1.average-of-two-numbers.c
-│   ├── 2.area-of-rectangle.c
-│   ├── 3.area-of-circle.c
-│   ├── 4.swap-without-temp.c
-│   ├── 5.voting-eligibility.c
-│   ├── 6.difference-check.c
-│   ├── 7.leap-year-check.c
-│
-└── README.md
-
+c-labs/  
+│  
+├── exercises/  
+│   ├── 1.average-of-two-numbers.c  
+│   ├── 2.area-of-rectangle.c  
+│   ├── 3.area-of-circle.c  
+│   ├── 4.swap-without-temp.c  
+│   ├── 5.voting-eligibility.c  
+│   ├── 6.difference-check.c  
+│   ├── 7.leap-year-check.c  
+│  
+└── README.md  
+  
 * exercises/ → contains all c programs
 * naming format: `<number>.<short-description>.c`
 
